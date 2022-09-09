@@ -444,6 +444,17 @@ p {
 }
 @media screen and (max-width:567px){
     .card{
-        width:80%
+        width:80%;
+
     }
+        .image-wrapper{
+            width: 90%;
+            margin-top: 10px;
+            margin-left: 15px;
+            
+        }
+    .image-wrapper img{
+        width: 90%;
+    }
+
 }
